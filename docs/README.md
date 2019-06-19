@@ -1,1 +1,1 @@
-# ![GoCVS Logo](../assets/images/logox128.png) GoCVS Documentation
+# ![GoCVS Logo](../assets/img/logox128.png) GoCVS Documentation

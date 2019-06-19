@@ -1,0 +1,25 @@
+# Hidden and Private Files
+.console_history
+.env
+
+# Hidden and Private Directories
+.idea/
+.sass-cache/
+.vendor/
+.vscode/
+
+# Generated Visible Files
+**/*.log
+**/*.pid
+**/*.sqlite
+**/*.sublime*
+
+*.exe
+
+**/coverage*
+
+# Generated Folders
+bin/
+node_modules/
+tmp/
+vendor/
